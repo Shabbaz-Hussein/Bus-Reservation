@@ -1,0 +1,40 @@
+Booking Time: [Sun 12 Nov 2023 11:17AM]
+Customer Name: Abdulmalik Hussein
+PhoneNo: 0784739289
+Bus Number: 1
+Source: Nairobi
+Destination: Mombasa
+Time: 0900hrs
+Seat: S10
+Bus Fare: Ksh1500.00
+---------------------------------
+Booking Time: [Sun 12 Nov 2023 11:17AM]
+Customer Name: Abdulmalik Hussein
+PhoneNo: 0784739289
+Bus Number: 1
+Source: Nairobi
+Destination: Mombasa
+Time: 0900hrs
+Seat: S11
+Bus Fare: Ksh1500.00
+---------------------------------
+Booking Time: [Sun 12 Nov 2023 11:17AM]
+Customer Name: Abdulmalik Hussein
+PhoneNo: 0784739289
+Bus Number: 1
+Source: Nairobi
+Destination: Mombasa
+Time: 0900hrs
+Seat: S12
+Bus Fare: Ksh1500.00
+---------------------------------
+Booking Time: [Sun 12 Nov 2023 11:17AM]
+Customer Name: Abdulmalik Hussein
+PhoneNo: 0784739289
+Bus Number: 1
+Source: Nairobi
+Destination: Mombasa
+Time: 0900hrs
+Seat: S13
+Bus Fare: Ksh1500.00
+---------------------------------

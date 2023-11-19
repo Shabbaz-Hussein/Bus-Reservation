@@ -114,9 +114,9 @@ void bookSeats(struct Bus buses[], int busCount, struct Customer customers[], in
     }
 
     printf("Enter Customer Name: ");
-    fflush(stdin); // Clear the input buffer
+    fflush(stdin);
     fgets(customers[*customerCount].name, sizeof(customers[*customerCount].name), stdin);
-    customers[*customerCount].name[strcspn(customers[*customerCount].name, "\n")] = 0; // Remove the newline character
+    customers[*customerCount].name[strcspn(customers[*customerCount].name, "\n")] = 0;
 
     printf("Enter Customer PhoneNo: ");
     scanf("%s", customers[*customerCount].phoneNo);
